@@ -1,5 +1,7 @@
 # Generate Web API with SQL Connection only
 
+[![Watch the video](https://github.com/karlpothast/GenerateWebAPIwSQLConn/assets/13120778/823b8f2f-ccab-4caf-80ba-1c50898d4b00)](https://youtu.be/seI8ZHD8qaQ)
+
 # 1. SQL Connection String
 ![image](https://github.com/karlpothast/GenerateWebAPIwSQLConn/assets/13120778/3e7795d1-8b04-430b-9772-185876d7ea98)
 
@@ -8,4 +10,8 @@
 
 # 3. Test out your new API
 ![image](https://github.com/karlpothast/GenerateWebAPIwSQLConn/assets/13120778/29ab26d0-0fc4-4f12-8666-39682d05ce0e)
+
+
+
+
 
